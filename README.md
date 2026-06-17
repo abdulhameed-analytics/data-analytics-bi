@@ -1,4 +1,4 @@
-# Abdul Hameed - Data Analytics Portfolio
+# Abdul Hameed - Business Analytics & Intelligence Portfolio
 
 ## About Me
 
